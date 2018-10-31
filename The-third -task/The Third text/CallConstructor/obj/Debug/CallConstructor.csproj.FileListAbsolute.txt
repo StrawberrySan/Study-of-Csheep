@@ -1,0 +1,6 @@
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\bin\Debug\CallConstructor.exe.config
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\bin\Debug\CallConstructor.exe
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\bin\Debug\CallConstructor.pdb
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\obj\Debug\CallConstructor.csproj.CoreCompileInputs.cache
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\obj\Debug\CallConstructor.exe
+C:\Users\84707\Desktop\实验三\The Third text\CallConstructor\obj\Debug\CallConstructor.pdb

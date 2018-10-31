@@ -1,0 +1,7 @@
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\bin\Debug\QueueWithCSharp.exe.config
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\bin\Debug\QueueWithCSharp.exe
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\bin\Debug\QueueWithCSharp.pdb
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\obj\Debug\QueueWithCSharp.csprojAssemblyReference.cache
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\obj\Debug\QueueWithCSharp.csproj.CoreCompileInputs.cache
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\obj\Debug\QueueWithCSharp.exe
+C:\Users\84707\Desktop\实验三\The Third text\QueueWithCSharp\obj\Debug\QueueWithCSharp.pdb
